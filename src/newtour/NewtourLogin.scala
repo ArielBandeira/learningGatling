@@ -170,6 +170,6 @@ public class Newtourlogin extends Simulation {
           )
       );
 
-    setUp(scn.injectOpen(atOnceUsers(1))).protocols(httpProtocol);
+    setUp(scn.injectOpen(atOnceUsers(2))).protocols(httpProtocol);
   }
 }
