@@ -131,7 +131,7 @@ public class Newtourlogin extends Simulation {
 
     ScenarioBuilder scn = scenario("Newtourlogin")
       .exec(
-        http("request_0")
+        http("request_login")
           .get("/test/newtours/login_sucess.php")
           .headers(headers_0)
           .resources(
