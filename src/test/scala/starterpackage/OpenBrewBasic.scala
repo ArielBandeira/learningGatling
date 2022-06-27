@@ -1,0 +1,5 @@
+package starterpackage
+
+class OpenBrewBasic {
+
+}
