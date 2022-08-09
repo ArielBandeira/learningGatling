@@ -1,0 +1,10 @@
+{
+  "simulation": "starterpackage.OpenBrewBasic_Feeder_CSV",
+  "simulationId": "openbrewbasic-feeder-csv",
+  "start": 1660075749536,
+  "description": "",
+  "scenarios": ["find_breweries"],
+  "assertions": [
+
+  ]
+}

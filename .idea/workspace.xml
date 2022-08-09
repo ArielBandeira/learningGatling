@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="7911d427-eb7b-46a5-8c19-bff1470230a9" name="Changes" comment="update project files">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/scala/starterpackage/OpenBrewBasic.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/scala/starterpackage/OpenBrewBasic.scala" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,7 +19,7 @@
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
         <entry key="$PROJECT_DIR$/.." value="main" />
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="develop" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -39,7 +38,9 @@
     <option name="version" value="2" />
   </component>
   <component name="ProjectId" id="2AipRlCngMIU1JZxwdWWvzMO3Bz" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -57,6 +58,11 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="starterpackage" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="Engine" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="Engine" />
@@ -67,6 +73,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Engine" />
+        <item itemvalue="Application.Engine" />
+        <item itemvalue="Application.Engine" />
+        <item itemvalue="Application.Engine" />
         <item itemvalue="Application.Engine" />
       </list>
     </recent_temporary>
@@ -82,6 +92,7 @@
       <workItem from="1655502260791" duration="1260000" />
       <workItem from="1655925879505" duration="3189000" />
       <workItem from="1656364522094" duration="3899000" />
+      <workItem from="1658600009909" duration="15000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1655502480130</created>
@@ -123,6 +134,9 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.csv" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
