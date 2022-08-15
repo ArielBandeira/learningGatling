@@ -1,0 +1,10 @@
+{
+  "simulation": "sessionpackage.BasicGetGameDetails",
+  "simulationId": "basicgetgamedetails",
+  "start": 1660600032845,
+  "description": "",
+  "scenarios": ["GetGame"],
+  "assertions": [
+
+  ]
+}

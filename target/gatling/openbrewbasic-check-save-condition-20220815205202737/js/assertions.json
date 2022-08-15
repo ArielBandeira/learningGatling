@@ -1,0 +1,10 @@
+{
+  "simulation": "starterpackage.OpenBrewBasic_Check_Save_Condition",
+  "simulationId": "openbrewbasic-check-save-condition",
+  "start": 1660596722737,
+  "description": "",
+  "scenarios": ["find_breweries"],
+  "assertions": [
+
+  ]
+}
