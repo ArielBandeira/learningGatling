@@ -1,0 +1,10 @@
+{
+  "simulation": "starterpackage.OpenBrewBasic_PrintSession",
+  "simulationId": "openbrewbasic-printsession",
+  "start": 1660173936954,
+  "description": "",
+  "scenarios": ["find_breweries"],
+  "assertions": [
+
+  ]
+}

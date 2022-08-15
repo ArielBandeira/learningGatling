@@ -1,0 +1,7 @@
+RUN	starterpackage.OpenBrewBasic_Check_Save	openbrewbasic-check-save	1660175265499	 	3.6.1
+USER	find_breweries	START	1660175267197
+USER	find_breweries	START	1660175267197
+REQUEST		all_breweries	1660175267236	1660175267819	OK	 
+REQUEST		all_breweries	1660175267236	1660175267819	OK	 
+USER	find_breweries	END	1660175272875
+USER	find_breweries	END	1660175272875
