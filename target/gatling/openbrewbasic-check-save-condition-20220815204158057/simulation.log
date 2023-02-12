@@ -1,9 +1,0 @@
-RUN	starterpackage.OpenBrewBasic_Check_Save_Condition	openbrewbasic-check-save-condition	1660596118057	 	3.6.1
-USER	find_breweries	START	1660596119769
-USER	find_breweries	START	1660596119769
-REQUEST		all_breweries	1660596119819	1660596120434	OK	 
-REQUEST		all_breweries	1660596119819	1660596120434	OK	 
-REQUEST		single_brewery	1660596125528	1660596125726	OK	 
-USER	find_breweries	END	1660596125732
-REQUEST		single_brewery	1660596125528	1660596125769	OK	 
-USER	find_breweries	END	1660596125770

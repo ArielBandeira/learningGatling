@@ -1,9 +1,0 @@
-RUN	starterpackage.OpenBrewBasic	openbrewbasic	1656368543457	all_breweries,single_brewery	3.6.1
-USER	find_breweries	START	1656368545307
-USER	find_breweries	START	1656368545307
-REQUEST		all_breweries	1656368545349	1656368545894	OK	 
-REQUEST		all_breweries	1656368545348	1656368546111	OK	 
-REQUEST		single_brewery	1656368550929	1656368551030	OK	 
-USER	find_breweries	END	1656368551034
-REQUEST		single_brewery	1656368551115	1656368551211	OK	 
-USER	find_breweries	END	1656368551212

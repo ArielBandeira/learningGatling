@@ -1,9 +1,0 @@
-RUN	starterpackage.OpenBrewBasic	openbrewbasic	1656369038925	 	3.6.1
-USER	find_breweries	START	1656369040699
-USER	find_breweries	START	1656369040699
-REQUEST		all_breweries	1656369040741	1656369041248	OK	 
-REQUEST		all_breweries	1656369040741	1656369041258	OK	 
-REQUEST		single_brewery	1656369046296	1656369046395	KO	responseTimeInMillis.find.greaterThanOrEqual(1600), 99 is not greater than or equal to 1600
-REQUEST		single_brewery	1656369046296	1656369046394	KO	responseTimeInMillis.find.greaterThanOrEqual(1600), 98 is not greater than or equal to 1600
-USER	find_breweries	END	1656369046430
-USER	find_breweries	END	1656369046431
