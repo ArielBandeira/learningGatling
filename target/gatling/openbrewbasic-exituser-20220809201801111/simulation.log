@@ -1,7 +1,0 @@
-RUN	starterpackage.OpenBrewBasic_ExitUser	openbrewbasic-exituser	1660076281111	 	3.6.1
-USER	find_breweries	START	1660076283056
-USER	find_breweries	START	1660076283056
-REQUEST		all_breweries	1660076283135	1660076283913	KO	status.find.is(201), but actually found 200
-REQUEST		all_breweries	1660076283136	1660076283913	KO	status.find.is(201), but actually found 200
-USER	find_breweries	END	1660076284015
-USER	find_breweries	END	1660076284015
