@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7911d427-eb7b-46a5-8c19-bff1470230a9" name="Changes" comment="working with api http post request - methods stringbody, elfilestring">
+    <list default="true" id="7911d427-eb7b-46a5-8c19-bff1470230a9" name="Changes" comment="randomly generated strings and custom feeder in requests">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/data/linkshortenUpdated.csv" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/data/linkshortenUpdated.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -176,7 +175,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676160253647</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="randomly generated strings and custom feeder in requests">
+      <created>1678321924667</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1678321924667</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -190,19 +196,7 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="FILTERS">
-                <map>
-                  <entry key="branch">
-                    <value>
-                      <list>
-                        <option value="section6_44" />
-                      </list>
-                    </value>
-                  </entry>
-                </map>
-              </option>
-            </State>
+            <State />
           </value>
         </entry>
       </map>
@@ -216,6 +210,7 @@
     <MESSAGE value="update project files and exit and feeder" />
     <MESSAGE value="conditions and check" />
     <MESSAGE value="working with api http post request" />
-    <option name="LAST_COMMIT_MESSAGE" value="working with api http post request" />
+    <MESSAGE value="randomly generated strings and custom feeder in requests" />
+    <option name="LAST_COMMIT_MESSAGE" value="randomly generated strings and custom feeder in requests" />
   </component>
 </project>
