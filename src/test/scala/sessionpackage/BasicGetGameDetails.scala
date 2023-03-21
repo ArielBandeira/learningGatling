@@ -22,4 +22,7 @@ class BasicGetGameDetails extends Simulation {
     .exec(http("getgamerequest").get("/api/game?id=${game_id}"))
 
   setUp(scn.inject(atOnceUsers(3))).protocols(httpConf)
+    .assertions(
+      global.successfulRequests.percent.is(100)
+    )
 }
