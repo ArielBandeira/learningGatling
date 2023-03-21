@@ -16,7 +16,7 @@ class BasicGetGameDetails extends Simulation {
   //val scn = scenario("GetBusDetails").feed(csvfeeder_bus)
     //.exec(http("getgamerequest").get("/api/bus/search/?app_id="+ appId+"&app_key="+ appKey+"&format=json&source=${source}&destination=${destination}&dateofdeparture="+ dateofDepart))
 
-  val csvfeeder_games = csv("data/game_csv.csv").circular
+  val csvfeeder_games = csv("data/gamecsv.csv").circular
 
   val scn = scenario("GetGame").feed(csvfeeder_games)
     .exec(http("getgamerequest").get("/api/game?id=${game_id}"))
